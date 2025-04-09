@@ -23,5 +23,7 @@ Tujuan dari analisis spesifik listing milik Evan yang berkategori kurang peminat
 3. Segmentasi Berdasarkan Neighbourhood & Host: Identifikasi area dan host populer berdasarkan jumlah review.
 4. Studi Kasus Spesifik: Pendekatan komparatif terhadap listing Evan vs listing yang ramai peminat dalam satu kawasan.
 
-
+## LINK
+Dataset & PPT: https://drive.google.com/drive/folders/1Z_8xNp__l-3nkpYnbyw0BhH2BcNeNAY1?usp=sharing
+Tableau: https://public.tableau.com/views/AirBnbListingbyGarda/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
